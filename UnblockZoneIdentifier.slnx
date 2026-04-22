@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/UnblockZoneIdentifier.Test/UnblockZoneIdentifier.Test.csproj" />
+  <Project Path="src/UnblockZoneIdentifier/UnblockZoneIdentifier.csproj" />
+</Solution>
